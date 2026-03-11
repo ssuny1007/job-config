@@ -1,0 +1,8 @@
+{
+  "minVersion": "1.0.0",
+  "latestVersion": "1.0.0",
+  "apiUrl": "http://10.211.210.141:5042/api",
+  "hubUrl": "http://10.211.210.141:5042/hubs/chat",
+  "storeUrl": "",
+  "notice": ""
+}
